@@ -21,7 +21,8 @@ namespace Demo2
         {
             ///BLABLBALBA
             //d'autre commentaires
-            // Je ne suis pas d'accord!
+            //moi je suis d'accord  (obtenu en cochant la fenêtre de gauche)
+            // Je ne suis pas d'accord!  (obtenu en copiant-collant de la fenêtre de droite)
         }
     }
 }

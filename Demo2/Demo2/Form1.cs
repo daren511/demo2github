@@ -20,6 +20,7 @@ namespace Demo2
         private void Form1_Load(object sender, EventArgs e)
         {
             ///BLABLBALBA
+            //d'autre commentaires
         }
     }
 }

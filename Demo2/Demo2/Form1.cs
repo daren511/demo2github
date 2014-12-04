@@ -21,6 +21,8 @@ namespace Demo2
         {
             ///BLABLBALBA
             //d'autre commentaires
+            //moi je suis d'accord
+
         }
     }
 }
